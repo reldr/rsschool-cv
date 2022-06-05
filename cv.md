@@ -2,6 +2,7 @@
 ## My contacts:
 * E-mail: cedima193@gmail.com
 * GitHub:  [reldr](https://github.com/reldr)
+
 * Discord: Reldr#2394 
 ## About myself:
 ## Skills:
